@@ -83,17 +83,4 @@ The following scripts merge results and compute predictive performance across ex
 **All results** are saved under:  
 `release_commit_data/comparison_outputs/csv_outputs/`
 
-## Reproducing the Results
-
-To reproduce the full pipeline as in the paper:
-
-```bash
-python git_release.py
-python pickles_creating_total.py
-python comparison_outputs/1_process_metrics_product.py
-python comparison_outputs/2_process_metrics_vectors_product.py
-python comparison_outputs/3_traditional_hyper_centralities.py
-python comparison_outputs/4_build_csvs.py
-python comparison_outputs/5_build_csvs_vectors_product.py
-python comparison_outputs/csv_outputs/5_pr+pv+h_predictions.py
 
