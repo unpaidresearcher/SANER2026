@@ -6,32 +6,6 @@ The process is fully automated through a sequence of Python scripts organized in
 
 ---
 
-## Directory Structure Overview
-
-release_commit_data/
-│
-├── git_release.py
-├── git_release_derby.py
-├── git_authors_total_lines.py
-├── git_authors_total_derby.py
-│
-├── pickles_creating_product.py
-├── pickles_creating_total.py
-│
-└── comparison_outputs/
-├── 1_process_metrics_product.py
-├── 2_process_metrics_vectors_product.py
-├── 3_traditional_hyper_centralities.py
-├── 4_build_csvs.py
-├── 5_build_csvs_vectors.py
-│
-└── csv_outputs/
-├── 1_combine_csv.py
-├── 2_combine_csv_vector.py
-├── 3_pr+pt_predictions.py
-├── 4_pr+pv_predictions.py
-└── 5_pr+pv+h_predictions.py
-
 Make sure you have **Python 3.9+** installed.
 
 ## Data Preparation
