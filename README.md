@@ -1,5 +1,5 @@
 # SANER2026
-# Replication Package: Release Commit Data and Feature Analysis
+# Replication Package
 
 This replication package reproduces all datasets, feature extraction pipelines, and performance analyses used in the study.  
 The process is fully automated through a sequence of Python scripts organized into modular stages.
