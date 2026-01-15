@@ -19,6 +19,11 @@ These scripts collect and preprocess release commit data from open-source reposi
 
 All outputs are stored as `.pkl` files for efficient reuse.
 
+## Defects Extraction
+
+The defects are extracted from the preprocessed csvs from the "`JIRA-defect-dataset`" of the repository "`https://github.com/awsm-research/Large-Defect-Prediction-Benchmark`".
+The csvs are also in the `CSVs` folder.
+
 ## Pickle Creation
 
 The pickle files serve as serialized datasets for subsequent processing.
