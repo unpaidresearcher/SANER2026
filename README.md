@@ -21,7 +21,8 @@ All outputs are stored as `.pkl` files for efficient reuse.
 
 ## Defects Extraction
 
-The defects are extracted from the preprocessed csvs from the "`JIRA-defect-dataset`" of the repository "`https://github.com/awsm-research/Large-Defect-Prediction-Benchmark`".
+The defects are extracted from the preprocessed csvs from the "`JIRA-defect-dataset`" of the repository "`https://github.com/awsm-research/Large-Defect-Prediction-Benchmark`". (**Mining software defects: Should we consider affected releases** by Yatish et. al)
+
 The csvs are also in the `CSVs` folder.
 
 ## Pickle Creation
