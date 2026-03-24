@@ -66,5 +66,5 @@ The following scripts merge results and compute predictive performance across ex
 ## 📄 Paper
 
 You can read the full paper here:  
-[🔗 Download Paper (PDF)] (https://github.com/unpaidresearcher/SANER2026/blob/main/SANER_2026_paper_263%20(5).pdf)
+[🔗 Download Paper (PDF)] (https://github.com/unpaidresearcher/SANER2026/blob/main/SANER2026.pdf))
 
